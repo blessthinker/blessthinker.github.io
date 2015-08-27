@@ -1,0 +1,6 @@
+---
+published: true
+title: test page
+layout: post
+---
+test page
